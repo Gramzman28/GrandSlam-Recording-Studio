@@ -1,7 +1,7 @@
 # GrandSlamRecordingStudio 
 "GrandSlam Recording Studio - LEE GRAMZ https://open.spotify.com/artist/6lGGPiMMFVXyEYg9H26V2s
 
-LeeGramz https://www.facebook.com/LeeGramz1989
+LeeGramz https://www.facebook.com/Gramzman28
 
 https://grandslamrecordingstudio.business.site/posts/8137266116070737313Music Platform Blogger in Creativity thinkinghttps://www.facebook.com/WeConnectedMediaLLC
 
