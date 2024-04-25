@@ -1,4 +1,7 @@
-Leon Scott - name: Setup Node.js environment
+Leon Scott Doing Business As GrandSlam Recording Studio 
+https://github.com/GrandSlam-Recording-Studio
+
+- name: Setup Node.js environment
   uses: actions/setup-node@v2.4.1
   with:
     # Set always-auth in npmrc
